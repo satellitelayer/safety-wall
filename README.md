@@ -1,2 +1,2 @@
 # safety-wall
-Safety Wall is a program to ensure citizen safety.
+Safety Wall is a program to increase citizenship safety in all public areas. 
